@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Pooja R</h1>
 <h3 align="center">A passionate Software Engineer from Bengaluru, India.</h3>
 
